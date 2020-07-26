@@ -1,0 +1,2 @@
+# InstantTeleport
+SPIGOT INSTANT TP SPIGOT
